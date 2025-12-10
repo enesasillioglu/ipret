@@ -1,6 +1,6 @@
 {
   "name": "ipret",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Micro i18n js library. No dependencies.",
   "main": "src/ipret.js",
   "scripts": {
@@ -17,7 +17,8 @@
     "internationalization",
     "i18n",
     "l10n",
-    "localization"
+    "localization",
+    "named-parameters"
   ],
   "author": "İsmail Demirbilek <ce.demirbilek@gmail.com>",
   "license": "MIT",
